@@ -1,12 +1,11 @@
 ## CSS
 
-#### [HTML5book](https://html5book.ru/css-css3/) | [METANIT](https://metanit.com/web/html5/)
-
 #### Skills
--
--
+- [X] Using Flexbox and Grid
+- [X] Making a website adaptive with media queries
+- [X] Understanding how the BEM works
 -
 
-#### Future
-SCSS  
-Bootstrap
+#### What's next
+- [ ] Learning to use Bootstrap  
+- [ ] Switching to SCSS 
