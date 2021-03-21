@@ -1,8 +1,5 @@
 ## HTML
 
-#### [HTML5book](https://html5book.ru/html-html5/) | [METANIT](https://metanit.com/web/html5/)
-
 #### Skills
--
--
--
+- [X] Using valid, semantic and adaptive HTML5 markup
+- [X] Understanding how the DOM works 
