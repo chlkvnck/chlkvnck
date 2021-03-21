@@ -1,4 +1,4 @@
-## [Details](https://github.com/chlkvnck/chlkvnck/blob/main/content.md)
+## [Details](https://github.com/chlkvnck/chlkvnck/blob/main/details.md)
 
 ![](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)
 ![](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)
