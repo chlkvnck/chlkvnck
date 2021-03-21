@@ -1,0 +1,10 @@
+- HTML
+- CSS
+- JavaScript
+- React
+- GIT
+- Node.JS
+- REST API
+- NPM / Webpack
+- Unit Test(Jest, Mocha & Chai)
+- NoSQL (MongoDB)
