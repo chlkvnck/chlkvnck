@@ -6,7 +6,7 @@
 - Vanilla JS
 
 #### Future
-TypeScript (T-D)
+- TypeScript (T-D)
 
 #### GTK
 promises, async/await
