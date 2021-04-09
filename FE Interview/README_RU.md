@@ -1,12 +1,7 @@
 # Вопросы кандидату на должность front-end разработчика
 
-**Замечание:** Этот репозиторий содержит подборку вопросов, которые могут быть использованы на собеседованиях на должность front-end разработчика. Здесь предлагаются лишь идеи, не нужно задавать все вопросы сразу (иначе в один час точно не уложитесь).
-
-Также, имейте в виду, что многие вопросы не требуют однозначного короткого ответа, а лишь помогают завести беседу на ту или иную тему (предоставляя кандидату возможность показать себя во всей красе).
-
 ## <a name='toc'>Содержание</a>
 
-  1. [Первоначальные авторы](#contributors)
   1. [Общие вопросы](#general)
   1. [Вопросы по HTML](#html)
   1. [Вопросы по JavaScript](#js)
@@ -14,22 +9,6 @@
   1. [Вопросы по jQuery](#jquery)
   1. [Вопросы по CSS](#css)
   1. ["Светская беседа"](#fun)
-
-#### [[⬆]](#toc) <a name='contributors'>Первоначальные авторы</a>
-
-* @bentruyman (http://bentruyman.com)
-* @cowboy (http://benalman.com)
-* @roger_raymond (http://twitter.com/iansym)
-* @ajpiano (http://ajpiano.com)
-* @paul_irish (http://paulirish.com)
-* @SlexAxton (http://alexsexton.com)
-* @boazsender (http://boazsender.com)
-* @miketaylr (http://miketaylr.com)
-* @vladikoff (http://vladfilippov.com)
-* @gf3 (http://gf3.ca)
-* @jon_neal (http://twitter.com/jon_neal)
-* @wookiehangover (http://wookiehangover.com)
-* @darcy_clarke (http://darcyclarke.me)
 
 #### [[⬆]](#toc) <a name='general'>Общие вопросы:</a>
 
