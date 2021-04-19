@@ -16,3 +16,4 @@
 - Понимание концепции: среда исполнения, API - браузерный заменяет, работа с файловой системей  
 - Преимущества - ивентовая основа (process on, close), event emitter, websocket, promise, eventloop   
 - Что могут спросить: как оптимизировать запрос в бд, postgresql
+- server-side rendering
