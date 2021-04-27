@@ -11,8 +11,9 @@
 #### GTK
 - promises, async/await
 - hoisting  
-- event bubbling  
+- event loop, bubbling  
 - scope  
 - prototype  
 - shadowDom  
 - strict
+- context (bind, apply, call)
