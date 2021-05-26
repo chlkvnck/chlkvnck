@@ -10,10 +10,15 @@
 
 #### GTK
 - promises, async/await
+- rendering
 - hoisting  
 - event loop, bubbling  
-- scope  
+- scope (let/const) 
+- higher-order functions
 - prototype  
-- shadowDom  
+- shadowDom
 - strict
 - context (bind, apply, call)
+- immutability
+- functional programming
+- patterns (also architectural)
