@@ -7,15 +7,12 @@
 
 #### GTK
 - promises, async/await
-- rendering
-- hoisting  
 - event loop, bubbling  
 - higher-order functions
 - prototype  
 - shadowDom
 - strict
 - context (bind, apply, call)
-- immutability
 - functional programming
 - patterns (also architectural)
 - typescript
