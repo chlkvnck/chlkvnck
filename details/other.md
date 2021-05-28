@@ -2,8 +2,8 @@
 
 #### Skills
 - [X] Soft ones are pretty good ;)
-- GIT
-- Build (NPM / Webpack)
+- [X] GIT
+- [X] Build (NPM / Webpack)
 
 #### Knowledge 
 - Internet: HTTP, REST API, Fetch API (AJAX), CORS
