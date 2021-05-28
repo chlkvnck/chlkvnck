@@ -10,7 +10,6 @@
 - rendering
 - hoisting  
 - event loop, bubbling  
-- scope (let/const) 
 - higher-order functions
 - prototype  
 - shadowDom
