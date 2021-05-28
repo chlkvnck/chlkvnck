@@ -5,9 +5,6 @@
 #### Skills
 - [X] Vanilla JS
 
-#### Future
-- [ ] TypeScript (T-D)
-
 #### GTK
 - promises, async/await
 - rendering
@@ -22,3 +19,4 @@
 - immutability
 - functional programming
 - patterns (also architectural)
+- typescript
