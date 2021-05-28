@@ -1,13 +1,14 @@
 ## Other
 
 #### Skills
-- [X] Soft ones are pretty good though ;)
+- [X] Soft ones are pretty good ;)
+- GIT
+- Build (NPM / Webpack)
+
+#### Knowledge 
+- Internet: HTTP, REST API, Fetch API (AJAX), CORS
 
 #### Future
-- [ ] iOS / Android (?)
-
-#### GTK
-- Build (NPM / Webpack)   
 - Unit-Tests (Jest / Mocha & Chai)    
 - NoSQL (MongoDB)
-- HTTP, REST API, Fetch API (AJAX), CORS, GraphQL
+- GraphQL
