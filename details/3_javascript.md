@@ -4,15 +4,3 @@
 
 #### Skills
 - [X] Vanilla JS
-
-#### GTK
-- promises, async/await
-- event loop, bubbling  
-- higher-order functions
-- prototype  
-- shadowDom
-- strict
-- context (bind, apply, call)
-- functional programming
-- patterns (also architectural)
-- typescript
