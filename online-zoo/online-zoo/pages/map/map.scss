@@ -1,0 +1,1220 @@
+/* rubik-300 - latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300;
+  src: local(""), url("../../assets/fonts/rubik-v12-latin-300.woff2") format("woff2"), url("/../../assets/fonts/rubik-v12-latin-300.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* rubik-regular - latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../../assets/fonts/rubik-v12-latin-regular.woff2") format("woff2"), url("../../assets/fonts/rubik-v12-latin-regular.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* rubik-500 - latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  src: local(""), url("../../assets/fonts/rubik-v12-latin-500.woff2") format("woff2"), url("../../assets/fonts/rubik-v12-latin-500.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* rubik-700 - latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url("../../assets/fonts/rubik-v12-latin-700.woff2") format("woff2"), url("../../assets/fonts/rubik-v12-latin-700.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* merriweather-700 - latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url("../../assets/fonts/merriweather-v22-latin-700.woff2") format("woff2"), url("../../assets/fonts/merriweather-v22-latin-700.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-500 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local(""), url("../../assets/fonts/roboto-v20-latin-500.woff2") format("woff2"), url("../../assets/fonts/roboto-v20-latin-500.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../../assets/fonts/roboto-v20-latin-regular.woff2") format("woff2"), url("../../assets/fonts/roboto-v20-latin-regular.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* HEADER START */
+body {
+  // max-width: 1920px;
+  // margin: 0 auto;
+  // background: url("../../assets/images/mapBig.png") no-repeat center top;
+ overflow-x: hidden;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.header {
+  z-index: 2;
+  position: absolute;
+  margin: 25px 60px 0;
+  height: 86px;
+  width: calc(100% - 120px);
+}
+
+.wrapper {
+  position: relative;
+  // max-width: 1800px;
+  // margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fcfcfc;
+  border: 2px solid #f0f0f0;
+  width: calc(100% - 90px);
+  height: 100%;
+  margin: 0 0 0 90px;
+}
+
+.hidden {
+  display: none;
+}
+
+.header__nav {
+  margin: 0 0 0 94px;
+}
+
+.header__ul {
+  display: flex;
+  justify-content: space-between;
+  width: 675px;
+}
+
+.header__element {
+  padding-right: 0px;
+  list-style-type: none;
+}
+
+.header__element--link {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 28px;
+  color: #080029;
+}
+
+.header__element--link:hover {
+  opacity: 0.5;
+}
+
+.active {
+  text-shadow: 1px 0 0 currentColor;
+  pointer-events: none;
+}
+
+.active:hover {
+  opacity: 1;
+}
+
+.header__profile {
+  cursor: pointer;
+}
+
+.header__profile {
+  margin-right: 86px; 
+}
+
+/* HEADER END */
+/* SIDEBAR START */
+.sidebar {
+  z-index: 10;
+  position: fixed;
+  top: 25px;
+  background-color: #fcfcfc;
+  margin: 0 40px 0px;
+}
+
+.aside__container {
+  width: 86px;
+  height: 756px;
+  border: 2px solid #f0f0f0;
+}
+
+.aside__logo {
+  padding: 23px 19px 23px 16px;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+.aside__element {
+  padding-bottom: 127px;
+  padding-left: 15px;
+}
+
+.aside__element:first-child {
+  padding-top: 24px;
+}
+
+.aside__element:last-child {
+  padding-bottom: 88px;
+}
+
+.disable {
+  display: none;
+}
+
+.aside__element--image:hover {
+  opacity: 0.5;
+}
+
+.arrow:first-child {
+  margin-top: -3px;
+  padding-bottom: 3px;
+}
+
+.aside-active .stroke {
+  stroke: #609fff;
+  stroke-width: 2;
+}
+
+/* SIDEBAR END */
+
+.main {
+  overflow: hidden;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.main::before {
+  position: absolute;
+  top: 0;
+  z-index: -10;
+  height: 100vh;
+  width: 100vw;
+  background-image: url("../../assets/images/mapBig.png");
+  background-position: calc(50% + 30px) calc(50% - 37px);
+  content: "";
+}
+
+.map-animals {
+  position: relative;
+  height: 860px;
+  width: 1920px;
+  margin: 0 auto;
+  align-self: center;
+}
+
+.aside__element--circle {
+  position: absolute;
+}
+
+.aside__element--circle:hover {
+  cursor: pointer;
+}
+
+.aside__element--circle:hover .stroke {
+  stroke: #609fff;
+  stroke-width: 2;
+}
+
+.zoo-geo__map--icon {
+  transition: all 0.5s ease-in-out;
+  position: absolute;
+  width: 160px;
+  height: 160px;
+}
+
+.gorilla-icon.open ~ .zoo-geo__card {
+  visibility: visible;
+}
+
+.panda-icon.open ~ .zoo-geo__card {
+
+  visibility: visible;
+
+  top: calc(50% - 250px);
+  left: calc(50% + 300px);
+
+  h3 span {
+    display: none;
+  }
+  h3::after {
+    content: "Panda";
+  }
+
+  img {
+    content: url("../../assets/images/pandaCard.png");
+  }
+
+  p span {
+    display: none;
+  }
+  
+  p::after {
+    content: "The broadcast comes from the mountainous regions of central China: Sichuan and Tibet. See their real life together.";
+  }
+}
+
+.alligator-icon.open ~ .zoo-geo__card {
+
+  visibility: visible;
+
+  top: calc(50% - 250px);
+  left: calc(50% - 600px);
+
+  h3 span {
+    display: none;
+  }
+  h3::after {
+    content: "Alligator";
+  }
+
+  p {
+    margin-bottom: 78px;
+  }
+
+  img {
+    content: url("../../assets/images/alligatorCard.png");
+  }
+
+  p span {
+    display: none;
+  }
+  
+  p::after {
+    content: "The broadcast is from Florida. See their real life.";
+  }
+}
+
+.eagle-icon.open ~ .zoo-geo__card {
+
+  visibility: visible;
+
+  h3 span {
+    display: none;
+  }
+  h3::after {
+    content: "Eagle";
+  }
+
+  p {
+    margin-bottom: 50px;
+  }
+
+  img {
+    content: url("../../assets/images/eagleCard.png");
+  }
+
+  p span {
+    display: none;
+  }
+  
+  p::after {
+    content: "The broadcast is from an island near Los Angeles. Watch their real life.";
+  }
+}
+
+.zoo-geo__map--icon:hover {
+  width: 182px;
+  height: 182px;
+}
+
+.zoo-geo__map--icon:hover .active-icon {
+  stroke: #609fff;
+  stroke-width: 2;
+}
+
+
+.eagle-icon {
+  visibility: hidden;
+  left: 313px;
+  top: 77px;
+}
+
+
+.eagle-icon:hover {
+  cursor: pointer;
+  left: 403px;
+  top: 62px;
+}
+
+.alligator-icon {
+  left: 213px;
+  top: 192px;
+}
+
+.alligator-icon:hover {
+  cursor: pointer;
+  left: 203px;
+  top: 177px;
+}
+
+.gorilla-icon {
+  left: 910px;
+  top: 437px;
+}
+
+.gorilla-icon:hover {
+  cursor: pointer;
+  left: 900px;
+  top: 422px;
+}
+
+.panda-icon {
+  left: 1591px;
+  top: 234px;
+}
+
+.panda-icon:hover {
+  cursor: pointer;
+  left: 1581px;
+  top: 219px;
+}
+
+.disable {
+  pointer-events: none;
+}
+
+.zoo-geo__card {
+  position: absolute;
+  visibility: hidden;
+  // left: 583px;
+  // top: 125px;
+  top: calc(50% - 170px);
+  left: calc(50% - 379px);
+  height: 512px;
+  max-width: 344px;
+  background: #FCFCFC;
+  box-shadow: 4px 12px 22px rgba(0, 0, 0, 0.06);
+  border-radius: 15px;
+}
+
+.zoo-geo__card--image {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  margin-bottom: 19px;
+  width: 344px;
+  height: 218px;
+}
+
+.zoo-geo__card--animal {
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 52px;
+  text-align: center;
+  padding-right: 3px;
+  color: #080029;
+  margin-bottom: 19px;
+}
+
+.zoo-geo__card--text {
+  font-family: "Rubik", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #747474;
+  margin-bottom: 22px;
+  max-width: 264px;
+  padding-left: 40px;
+}
+
+.zoo-geo__card--link {
+  text-decoration: none;
+}
+
+.zoo-geo__card--button {
+  font-family: "Rubik", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #3888FF;
+  background: none;
+  border: none;
+  margin-left: 112px;
+}
+
+.zoo-geo__card--button:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+@media screen and (max-width: 1919px) {
+
+  .container {
+    width: calc(100% - 56px);
+    margin: 0 0 0 70px;
+  }
+
+  .header {
+    margin: 25px 40px 0;
+    height: 66px;
+    width: calc(100% - 84px);
+  }
+
+  .header__nav {
+    margin: 0 0 0 74px;
+  }
+
+  .header__profile {
+    height: 40px;
+    width: 40px;
+  }
+
+  .aside__container {
+    width: 66px;
+    height: 616px;
+    border: 2px solid #f0f0f0;
+  }
+  
+  .aside__logo {
+    width: 42px;
+    height: 32px;
+    padding: 17px 12px;
+  }
+  
+  .aside__container {
+    width: 66px;
+    height: 616px;
+    border: 2px solid #f0f0f0;
+  }
+
+  a {
+    display:inline-block;
+  }
+
+  .aside__element--image {
+    display: block;
+    width: 66px;
+    height: 66px;
+  }
+
+  .aside__element {
+    padding-bottom: 0px;
+    padding-left: 10px;
+  } 
+
+  .aside__element:first-child {
+    padding-top: 0px;
+  }
+
+  .aside__element--image:first-child {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .aside__logo--link {
+    display: block;
+  }
+
+  .aside__element:nth-child(1) {
+    padding-bottom: 107px;
+    margin-top: -15px;
+  }
+
+  .arrow2 {
+    margin-top: -3px;
+  }
+
+  .main {
+    display: flex;
+
+    &::before {
+      background-position: calc(50% + 98px) calc(50% + 27px);
+      background-size: 1400px;
+    }
+  }
+
+  .aside__element:nth-child(2) {
+    padding-bottom: 107px;
+  }
+
+  .aside__element:nth-child(3) {
+    padding-bottom: 105px;
+  }
+
+  .aside__element:last-child {
+    margin-top: 2px;
+    padding-bottom: 0;
+    margin-bottom: 43px;
+  }
+
+  .aside__element--circle {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .zoo-geo__map--icon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .zoo-geo__map--icon:hover {
+    width: 124px;
+    height: 124px;
+  }
+  
+  .eagle-icon {
+    visibility: visible;
+    z-index: 0;
+    left: -22px;
+    top: 85px;
+  }
+  
+  .eagle-icon:hover {
+    cursor: pointer;
+    left: -34px;
+    top: 65px;
+  }
+  
+  .alligator-icon {
+    left: 202px;
+    top: 249px;
+  }
+  
+  .alligator-icon:hover {
+    cursor: pointer;
+    left: 190px;
+    top: 229px;
+  }
+  
+  .gorilla-icon {
+    left: 652px;
+    top: 393px;
+  }
+  
+  .gorilla-icon:hover {
+    cursor: pointer;
+    left: 640px;
+    top: 373px;
+  }
+  
+  .panda-icon {
+    left: 1089px;
+    top: 276px;
+  }
+
+  .alligator-icon.open ~ .zoo-geo__card {
+  
+    p {
+      margin-bottom: 67px;
+    }
+
+    top: calc(50% - 250px);
+    left: calc(50% - 300px);
+  }
+
+  
+  .eagle-icon.open ~ .zoo-geo__card {
+  
+    p {
+      margin-bottom: 42px;
+    }
+  }
+
+  .panda-icon.open ~ .zoo-geo__card {
+    top: calc(50% - 250px);
+    left: calc(50% + 200px);
+  }
+  
+  .eagle-icon.open ~ .zoo-geo__card {
+    top: calc(50% - 400px);
+    left: calc(50% - 300px);
+  }
+  
+  .panda-icon:hover {
+    cursor: pointer;
+    left: 1077px;
+    top: 256px;
+  }
+
+  .map-animals {
+    height: 700px;
+    width: 1200px;
+  }
+  
+  .disable {
+    pointer-events: none;
+  }
+  
+  .zoo-geo__card {
+    position: absolute;
+    top: calc(50% - 145px);
+    left: calc(50% - 239px);
+    height: 448px;
+    max-width: 292px;
+    background: #FCFCFC;
+    box-shadow: 4px 12px 22px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+  }
+  
+  .zoo-geo__card--image {
+    height: 195px;
+    width: 293px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-bottom: 16px;
+  }
+  
+  .zoo-geo__card--animal {
+    font-size: 28px;
+    line-height: 41px;
+    padding-right: 0px;
+    margin-bottom: 15px;
+  }
+  
+  .zoo-geo__card--text {
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    margin-bottom: 17px;
+    max-width: 264px;
+    padding-left: 15px;
+  }
+  
+  .zoo-geo__card--link {
+    text-decoration: none;
+  }
+  
+  .zoo-geo__card--button {
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-left: 93px;
+  }
+  
+  .zoo-geo__card--button:hover {
+    cursor: pointer;
+    opacity: 0.5;
+  }
+
+
+}
+
+@media screen and (max-width: 1199px) {
+  
+  .disable {
+    display: block;
+  }
+
+  .header {
+    margin: 0;
+    width: 100%;
+  }
+
+  .sidebar__wrapper {
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  
+  .wrapper {
+    border-bottom: transparent;
+  }
+
+  .container {
+    border: 0;
+    margin: 0 auto;
+    background-color: transparent;
+    display: flex;
+    width: auto;
+    justify-content: space-between;
+    width: 100%;
+    height: 88px;
+  }
+
+  .main::before {
+    background-position: calc(50% + 40px) calc(50% - 22px);
+    background-size: 1400px;
+  }
+
+  .header__logo {
+    margin-left: 20px;
+  }
+
+   .header__nav {
+    display: none;
+  }
+
+  .header__profile {
+    content: url(../../assets/icons/burger_menu.svg);
+    padding-bottom: 2px;
+    margin: 0 20px 0 0;
+    height: 56px;
+    width: 56px;
+
+    &:after {
+      content: url(../../assets/icons/burger_menu.svg);
+    }
+  }
+
+  .sidebar {
+    margin: 0 auto;
+    left: calc(50% - 300px);
+    overflow: hidden;
+    top: calc(100vh - 113px);
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  }
+
+  .aside__logo {
+    display: none;
+  }
+
+  .aside__container { 
+    width: 600px;
+    height: 76px;
+    border: 0;
+    display: inline-flex;
+  }
+
+  .aside__ul {
+    display: inline-flex;
+  }
+
+  a {
+    display:inline-block;
+  }
+
+  .aside__element--image {
+    display: block;
+    width: 66px;
+    height: 66px;
+  }
+
+  .aside__element {
+    padding-bottom: 12px;
+    padding-top: 0px;
+    padding-left: 94px;
+  } 
+
+  .question {
+    display: none;
+  }
+
+  .aside__logo--link {
+    display: block;
+  }
+
+  .aside__element:nth-child(1) {
+    padding-top: 7px;
+    padding-bottom: 0px;
+    padding-left: 11px;
+    margin-top: -3px;
+    margin-left: -5px;
+  }
+
+  .arrow {
+    padding-right: 0px;
+    padding-top: 16px;
+    margin-left: -3px;
+    transform: rotate(-90deg);
+  }
+
+  .aside__element--arrow:nth-of-type(3) {
+    margin-left: 41px;
+  }
+
+  .aside__element:nth-child(2) {
+    padding-left: 139px;
+    margin-top: 4px;
+  }
+
+  .aside__element:nth-child(3) {
+    padding-left: 139px;
+    margin-top: 4px;
+  }
+
+  .map-animals {
+    width: 640px;
+    height: 800px;
+  }
+
+  .aside__element:nth-child(4) {
+    padding-left: 139px;
+    margin-top: 4px;
+  }
+
+  .aside__element--circle {
+    width: 45px;
+    height: 45px;
+  }
+
+  .zoo-geo__map--icon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .zoo-geo__map--icon:hover {
+    width: 124px;
+    height: 124px;
+  }
+  
+  .eagle-icon {
+
+    left: -337px;
+    top: 94px;
+  
+    &:hover {
+      cursor: pointer;
+      left: -34px;
+      top: -28px;
+    }
+  }
+  
+  
+  .alligator-icon {
+
+    left: -113px;
+    top: 257px;
+  
+    &:hover {
+      cursor: pointer;
+      left: 190px;
+      top: 137px;
+    }
+  }
+
+  .aside__element--arrow:nth-of-type(3) {
+    margin-top: 10px;
+    margin-left: 48px;
+  }
+
+  .aside__element--arrow:nth-of-type(2) {
+    margin-top: 10px;
+    margin-left: 6px;
+    margin-right: -6px;
+  }
+  
+  .gorilla-icon {
+
+    left: 314px;
+    top: 390px;
+  
+    &:hover {
+      cursor: pointer;
+      left: 302px;
+      top: 372px;
+    }
+  }
+  
+  .panda-icon {
+
+    left: 773px;
+    top: 284px;
+  
+    &:hover {
+      cursor: pointer;
+      left: 1076px;
+      top: 164px;
+    }
+  }
+  
+  .disable {
+    pointer-events: none;
+  }
+  
+  .zoo-geo__card {
+    position: absolute;
+    top: calc(50% - 168px);
+    left: calc(50% - 255px);
+    height: 390px;
+    max-width: 250px;
+    background: #FCFCFC;
+    box-shadow: 4px 12px 22px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+  }
+  
+  .zoo-geo__card--image {
+    height: 160px;
+    width: 250px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-bottom: 17px;
+  }
+  
+  .zoo-geo__card--animal {
+    font-size: 24px;
+    line-height: 35px;
+    padding-right: 0px;
+    margin-bottom: 21px;
+  }
+  
+  .zoo-geo__card--text {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    margin-bottom: 15px;
+    max-width: 212px;
+    padding-left: 19px;
+  }
+  
+  .zoo-geo__card--link {
+    text-decoration: none;
+  }
+  
+  .zoo-geo__card--button {
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-left: 70px;
+  }
+}
+
+@media screen and (max-width: 639px) {
+
+  .disable {
+    display: block;
+  }
+
+  .header {
+    height: 59px;
+    margin: 0;
+    width: 100%;
+  }
+
+  .sidebar__wrapper {
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  
+  .wrapper {
+    border-bottom: transparent;
+  }
+
+  .container {
+    border: 0;
+    margin: 0 auto;
+    background-color: transparent;
+    display: flex;
+    width: auto;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+  }
+
+  .main::before {
+    background-position: calc(50% + 53px) calc(50% - 23px);
+    background-size: 836px;
+  }
+
+  .header__logo {
+    height: 42px;
+    width: 42px;
+    margin-left: 10px;
+  }
+
+   .header__nav {
+    display: none;
+  }
+
+  .header__profile {
+    height: 36px;
+    width: 36px;
+    content: url(../../assets/icons/burger_menu.svg);
+    padding-bottom: 2px;
+    margin: 0 10px 0 0;
+
+    &:after {
+      content: url(../../assets/icons/burger_menu.svg);
+    }
+  }
+
+  .sidebar {
+    height: 74px;
+    margin: 0 auto;
+    width: 300px;
+    left: calc(50% - 150px);
+    overflow: hidden;
+    top: calc(100vh - 92px);
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  }
+
+  .aside__logo {
+    display: none;
+  }
+
+  .aside__container { 
+    width: 600px;
+    height: 76px;
+    border: 0;
+    display: inline-flex;
+  }
+
+  .aside__ul {
+    display: inline-flex;
+  }
+
+  a {
+    display:inline-block;
+  }
+
+  .aside__element--image {
+    display: block;
+    width: 66px;
+    height: 66px;
+  }
+
+  .aside__element {
+    padding-bottom: 12px;
+    padding-top: 0px;
+    padding-left: 24px;
+  } 
+
+  .question {
+    display: none;
+  }
+
+  .aside__logo--link {
+    display: block;
+  }
+
+  .aside__element:nth-child(1) {
+    padding-top: 7px;
+    padding-bottom: 0px;
+    padding-left: 11px;
+    margin-top: -4px;
+    margin-left: -21px;
+  }
+
+  .arrow {
+    padding-right: 0px;
+    padding-top: 16px;
+    margin-left: -3px;
+    transform: rotate(-90deg);
+  }
+
+  .aside__element--arrow:nth-of-type(3) {
+    margin-left: 28px;
+    margin-top: 8px;
+    z-index: -1;
+  }
+
+  .aside__element--arrow:nth-of-type(2) {
+    margin-left: -15px;
+    margin-top: 7px;
+  }
+
+  .aside__element:nth-child(2) {
+    padding-left: 63px;
+    margin-top: 3px;
+  }
+
+  .aside__element:nth-child(3) {
+    order: 2;
+    padding-left: 63px;
+    margin-top: 3px;
+  }
+
+  .map-animals {
+    width: 320px;
+    height: 480px;
+  }
+
+  .aside__element:nth-child(4) {
+    padding-left: 63px;
+    margin-top: 3px;
+  }
+
+  .aside__element--circle {
+    width: 45px;
+    height: 45px;
+  }
+
+  .zoo-geo__map--icon {
+    width: 100px;
+    height: 100px;
+  }
+
+  .zoo-geo__card {
+    display: none;
+  }
+  
+  .zoo-geo__map--icon:hover {
+    width: 124px;
+    height: 124px;
+  }
+  
+  .eagle-icon {
+    left: -337px;
+    top: 94px;
+    width: 100px;
+    height: 100px;
+  
+    &:hover {
+      cursor: pointer;
+      left: -34px;
+      top: -28px;
+    }
+  }
+  
+  
+  .alligator-icon {
+    visibility: hidden;
+    left: -113px;
+    top: 257px;
+  
+    &:hover {
+      cursor: pointer;
+      left: 190px;
+      top: 137px;
+    }
+  }
+  
+  .gorilla-icon {
+
+    left: 165px;
+    top: 202px;
+  
+    &:hover {
+      cursor: pointer;
+      left: 153px;
+      top: 185px;
+    }
+  }
+  
+  .panda-icon {
+
+    left: 773px;
+    top: 284px;
+  
+    &:hover {
+      cursor: pointer;
+      left: 1076px;
+      top: 164px;
+    }
+  }
+}
