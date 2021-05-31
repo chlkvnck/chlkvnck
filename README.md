@@ -16,7 +16,7 @@
   - [X] Using preprocessors (SCSS)
   
 #### JavaScript & TypeScript
-  - [X] Understanding core JS concepts
+  - [X] Understanding core language concepts
   - [X] Using TypeScript
   
 ## 
