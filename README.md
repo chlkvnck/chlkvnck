@@ -10,12 +10,12 @@
   - [X] Understanding how browsers work (DOM)
   - [X] Writing clean and *beautiful* code with BEM methodology
   
-##### CSS
+#### CSS
   - [X] Making a website adaptive with media queries
   - [X] Using Flexbox and Grid
   - [X] Using preprocessors (SCSS)
   
-##### JavaScript & TypeScript
+#### JavaScript & TypeScript
   - [X] Understanding core language concepts
   - [X] Using TypeScript
   
