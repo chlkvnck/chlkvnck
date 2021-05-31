@@ -5,7 +5,7 @@
 [![JavaScript](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![*Other*](https://img.shields.io/badge/...and_more-f8d8ed?style=for-the-badge&logo=markdown&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
-##### HTML
+#### HTML
   - [X] Using valid, semantic and adaptive HTML5 markup
   - [X] Understanding how browsers work (DOM)
   - [X] Writing clean and *beautiful* code with BEM methodology
