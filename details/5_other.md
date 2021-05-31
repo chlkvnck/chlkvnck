@@ -11,6 +11,7 @@
 - [X] Design and Architectural Patterns
 
 #### Future
+- React JS, Redux
 - Node JS (Express) Basics
 - Unit-Tests (Jest / Mocha & Chai)    
 - NoSQL (MongoDB)
