@@ -30,7 +30,7 @@
   
 [![Talking](https://img.shields.io/badge/talking_to_people,_being_kind_and_grateful-2CA5E0?style=for-the-badge&)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Learning](https://img.shields.io/badge/-having_an_urge_to_learn_new_things-C51A4A?style=for-the-badge&)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-  - [X] This ones are probably more important than anything else above-mentioned
+  - [X] These ones are probably more important than anything else above-mentioned
   
 ## My process
   
