@@ -18,7 +18,6 @@
   
 #### JavaScript & TypeScript
   - [X] Understanding core language concepts
-  - [X] Using TypeScript
   
 ## 
 ### My projects
