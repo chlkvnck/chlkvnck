@@ -44,8 +44,8 @@
   
 ## My process
   
-[![MongoDB]( https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [X] Unit-tests (Jest, Mocha)
+- [X] NoSQL Databases (MongoDB, Firebase)
   
 ## My projects 
   
