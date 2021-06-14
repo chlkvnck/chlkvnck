@@ -42,7 +42,7 @@
 [![Learning](https://img.shields.io/badge/-having_an_urge_to_learn_new_things-C51A4A?style=for-the-badge&)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   - [X] These ones are probably more important than anything else above-mentioned
   
-## My process
+### My proccess
   
 - [X] Unit-tests (Jest, Mocha)
 - [X] NoSQL Databases (MongoDB, Firebase)
