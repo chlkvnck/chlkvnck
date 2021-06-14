@@ -21,6 +21,11 @@
   - [X] Understanding core framework concepts
   - [X] Writing reactive code with Flux-alike architecture (Redux)
   
+[![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  - [X] Performing basic backend interactions (axios, json parsing, websockets)
+  - [X] Understanding core runtime environment concepts
+  
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   - [X] Knowing how to build and maintain project's structure
@@ -38,9 +43,6 @@
   - [X] These ones are probably more important than anything else above-mentioned
   
 ## My process
-  
-[![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
 [![MongoDB]( https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
