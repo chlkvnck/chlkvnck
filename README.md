@@ -47,4 +47,4 @@
   
 ## My projects 
   
-[![A](https://img.shields.io/badge/Notes,_Skills_And_Todos-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/chlkvnck/chlkvnck/blob/gh-pages/README.md)
+[![A](https://img.shields.io/badge/IN_DEPTH:_Notes,_Skills_And_Todos-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/chlkvnck/chlkvnck/blob/gh-pages/README.md)
