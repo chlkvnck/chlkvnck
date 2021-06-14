@@ -4,6 +4,8 @@
 2. [Photo Filter](https://chlkvnck.github.io/chlkvnck/photo-filter/index.html)
 3. [Virtual Piano](https://chlkvnck.github.io/chlkvnck/virtual-piano/index.html)
 4. [Quiz Creator](https://react-quiz-5e831.firebaseapp.com)
+5. [Chat (w/ socket.io)](githublinkthatillprobablyaddlater) [offline]
+
 
 #### What I've Learned 
 
