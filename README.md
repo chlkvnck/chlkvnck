@@ -16,6 +16,11 @@
   - [X] Understanding core language concepts
   - [X] Using design and architectural patterns 
   
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  - [X] Understanding core framework concepts
+  - [X] Writing reactive code with Flux-alike architecture (Redux)
+  
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   - [X] Knowing how to build and maintain project's structure
@@ -33,9 +38,6 @@
   - [X] These ones are probably more important than anything else above-mentioned
   
 ## My process
-  
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
 [![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
