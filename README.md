@@ -3,6 +3,7 @@
 1. [Online Zoo](https://chlkvnck.github.io/chlkvnck/online-zoo/online-zoo/index.html)
 2. [Photo Filter](https://chlkvnck.github.io/chlkvnck/photo-filter/index.html)
 3. [Virtual Piano](https://chlkvnck.github.io/chlkvnck/virtual-piano/index.html)
+4. [Quiz Creator](https://react-quiz-5e831.firebaseapp.com)
 
 #### What I've Learned 
 
@@ -12,5 +13,7 @@
 * OOP fundamentals: abscract methodology and its building blocks (inheritance, polymorphism and encapsulation), design patterns
 * JavaScript essentials: prototype inheritance, event loop (promises, async/await), scope and context (this), closures and hoisting
 * TypeScript basics and proper usage
+* React & Redux 
+* Server-side: authorization, database usage
 * To be continued...
 
