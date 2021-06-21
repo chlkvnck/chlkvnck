@@ -3,8 +3,9 @@
 1. [Online Zoo](https://chlkvnck.github.io/chlkvnck/online-zoo/online-zoo/index.html)
 2. [Photo Filter](https://chlkvnck.github.io/chlkvnck/photo-filter/index.html)
 3. [Virtual Piano](https://chlkvnck.github.io/chlkvnck/virtual-piano/index.html)
-4. [Quiz Creator](https://react-quiz-5e831.firebaseapp.com)
-5. [Chat (w/ socket.io)](githublinkthatillprobablyaddlater) [offline]
+4. [React Quiz Creator](https://react-quiz-5e831.firebaseapp.com)
+5. React Chat (w/ socket.io)
+6. React To-Do
 
 
 #### What I've Learned 
