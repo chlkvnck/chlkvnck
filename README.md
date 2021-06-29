@@ -4,9 +4,9 @@
 2. [Photo Filter](https://chlkvnck.github.io/chlkvnck/photo-filter/index.html)
 3. [Virtual Piano](https://chlkvnck.github.io/chlkvnck/virtual-piano/index.html)
 4. [React Quiz Creator](https://react-quiz-5e831.firebaseapp.com)
-5. React Chat (w/ socket.io)
-6. React To-Do
-7. [React Pizza](https://react-pizza-chlkvnck.herokuapp.com/)
+5. [React To-Do]()
+6. [React Pizza](https://react-pizza-chlkvnck.herokuapp.com/)
+7. Прочие проекты в репозитории...
 
 
 #### What I've Learned 
