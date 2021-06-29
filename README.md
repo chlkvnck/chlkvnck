@@ -6,6 +6,7 @@
 4. [React Quiz Creator](https://react-quiz-5e831.firebaseapp.com)
 5. React Chat (w/ socket.io)
 6. React To-Do
+7. [React Pizza](https://react-pizza-chlkvnck.herokuapp.com/)
 
 
 #### What I've Learned 
