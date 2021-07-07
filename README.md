@@ -13,9 +13,6 @@
 * TypeScript basics and proper usage
 * React & Redux essentials: hooks, routing, thunk, classNames
 * Server: authorization, database usage, axios, json-server
-
-<br/>
-
 * DOM interactions and browser's rendering engine (parsing, construction, layout and painting)
 * The Internet and how it works: TCP/IP, DNS, HTTP, REST, packets and routers, public/private keys
 * Algorithms (sort & search): knowing how to decide which one to use in the given situation 
