@@ -44,8 +44,8 @@
   
 ### My proccess
   
-- [X] Unit-tests (Jest, Mocha)
-- [X] NoSQL Databases (MongoDB, Firebase)
+- [X] Unit-tests (Jest)
+- [X] NoSQL Databases (MongoDB)
   
 ## My projects 
   
