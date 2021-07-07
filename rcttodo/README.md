@@ -1,8 +1,3 @@
-Список задач (ToDo) по курсу [Разработка списка задача на ReactJS для начинающих](https://www.youtube.com/watch?v=PGZ6HtgSeio&list=PL0FGkDGJQjJGBcY_b625HqAKL4i5iNZGs)
+**[Full layout](https://www.figma.com/file/OP7oFTNqV8tPZyh2zSgCaX/Todo-ReactJS?node-id=0%3A1)**
 
-**Stack:**
-
-- ReactJS (useState, useReducer, useEffect)
-- React Router
-- Axios
-- classnames
+![image](https://user-images.githubusercontent.com/53650602/124772388-a8575d00-df44-11eb-8956-d06c2c30d618.png)
