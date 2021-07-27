@@ -187,3 +187,13 @@ function maxSequence(arr) {
 
   return maxSum;
 }
+
+//// 20 Сумма всех нечетных чисел больше 0
+
+function calculate(arr) {
+  return arr.reduce((acc, curr) => { 
+    return (curr > 0 && curr % 2 !== 0) ? acc + curr : acc; 
+  }, 0);
+}
+
+console.log(calculate([5, 0, -5, 20, 88, 17, -32, 21])) // 22
