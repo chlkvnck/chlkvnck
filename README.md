@@ -42,11 +42,6 @@
 [![Learning](https://img.shields.io/badge/-having_an_urge_to_learn_new_things-C51A4A?style=for-the-badge&)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   - [X] These ones are probably more important than anything else above-mentioned
   
-### My proccess
-  
-- [X] Unit-tests (Jest)
-- [X] NoSQL Databases (MongoDB)
-  
 ## My projects 
   
 [![A](https://img.shields.io/badge/IN_DEPTH:_Notes,_Skills_And_Todos-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/chlkvnck/chlkvnck/blob/gh-pages/README.md)
